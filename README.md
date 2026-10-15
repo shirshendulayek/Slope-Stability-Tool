@@ -2,8 +2,7 @@
 This tool can operate locally as CPanel (host the static website developed) is used
 
 
-![image](https://github.com/shirshendulayek/Slope-Stability-Tool/assets/75971658/ab3aab7f-f04e-4886-9e11-f20633dba83b)
-
+<img width="1332" height="800" alt="WhatsApp Image 2026-10-14 at 16 39 34" src="https://github.com/user-attachments/assets/8a893eb5-4e7c-49fb-beb4-798aecec9b3a" />
 
 Fig.1 Graphical user interface with Prediction 
 
