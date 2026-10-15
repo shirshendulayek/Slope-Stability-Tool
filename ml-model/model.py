@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.metrics import r2_score
 
 # Load data
-df = pd.read_csv('/content/merged_data15.csv')
+df = pd.read_excel('/content/merged_data15.xlsx')
 
 print(df.info())
 # Drop Reference and empty columns
